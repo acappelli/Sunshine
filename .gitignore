@@ -1,0 +1,8 @@
+/.gradle/
+build/
+/gen/
+/.idea/
+/local.properties
+/release
+*.iml
+.DS_Store
